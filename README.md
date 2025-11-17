@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte de uma atividade extensionista alinhado
 
 ## 🔗 Acesse o site
 
-👉 [Clique aqui para acessar o projeto publicado no GitHub Pages](https://aarosanunes.github.io/projeto-extensionista-blog-de-horta-e-calculadora-de-carbono/)
+👉 [Clique aqui para acessar o projeto publicado no GitHub Pages](https://aarosanunes.github.io/carbon-emissions-calculator/)
 
 ---
 
